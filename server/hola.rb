@@ -1,1 +1,1 @@
-puts "Hola, Subversion!"
+puts "Hola Subversion!"
