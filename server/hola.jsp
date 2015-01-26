@@ -1,1 +1,1 @@
-<%= "Hola, Ramis!" %>
+<%= "Hola, Eclipse!" %>
