@@ -1,1 +1,1 @@
-alert("Hola, Eclipse!");
+alert("Hola, Subversion!");
