@@ -1,1 +1,1 @@
-<%= "Hola, subversion!" %>
+<%= "Hola, subversion Eclipse!" %>

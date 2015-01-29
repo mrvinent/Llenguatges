@@ -1,1 +1,1 @@
-MsgBox "Hello, Subversion"
+MsgBox "Hello, Subversion Eclipse"
