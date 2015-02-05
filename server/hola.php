@@ -1,3 +1,3 @@
 <?php
-echo "Hola, Subversion Eclipse!";
+echo "Hola, Visual Studio!";
 ?>
